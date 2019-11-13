@@ -17,3 +17,6 @@ User will be able to create account and have his purchase history and other deta
 Will be able to sell as well purchase goods
 Will be able to compare goods with other goods
 User will have provision to write reviews and view other user reviews
+
+
+## We will be using Amazon's public APIs to fetch product details.
